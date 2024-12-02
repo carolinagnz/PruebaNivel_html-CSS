@@ -1,0 +1,28 @@
+.principal{
+    flex: auto;
+}
+
+.mi-boton{
+    background-color: #285e67; /* Verde */
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-end;
+    padding: 16px;
+    gap: 16px;
+    width: 251px;
+    height: 56px;
+    border-radius: 67px;
+    border: none;   
+    cursor: pointer;
+  }
+
+  .mi-boton:hover {
+    background-color: whitesmoke; /* Verde más oscuro */
+  }
+
+
+
+
+
