@@ -82,6 +82,23 @@
 
   .wellbeing{
     background-color: #f4f4f4;
+    align-items: center;
+    display: flex;
+    
+  }
 
+  .section3{
+    align-items: center;
+    display: flex;
+  }
+
+  .listahoja{
+    display: flex;
+    gap: 15px; /* Espaciado entre enlaces */
+    list-style-type: none;
+
+  }
+  .listaflor{
+    list-style-type: none;
   }
 
