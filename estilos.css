@@ -29,6 +29,17 @@
   body {
     font-family: 'Poppins', sans-serif;
   }
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+  }
+  .contactinfo {
+    display: flex;
+    gap: 15px; /* Espaciado entre enlaces */
+    list-style-type: none;
+  }
 
 
 
