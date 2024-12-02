@@ -24,7 +24,12 @@
 
   .footer{
     background-color: #285e67;
-  }
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+
+    }
 
   body {
     font-family: 'Poppins', sans-serif;
@@ -40,6 +45,15 @@
     gap: 15px; /* Espaciado entre enlaces */
     list-style-type: none;
   }
-
+  .contactinfo2 {
+    display: flex;
+    gap: 15px; /* Espaciado entre enlaces */
+    list-style-type: none;
+  }
+  .socialmedia {
+    display: flex;
+    gap: 15px; /* Espaciado entre enlaces */
+    list-style-type: none;
+  }
 
 
