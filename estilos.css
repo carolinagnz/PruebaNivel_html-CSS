@@ -56,4 +56,32 @@
     list-style-type: none;
   }
 
+  .principal{
+    align-items: center;
+  }
+
+  .imagenes{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+
+  }
+
+  .listaimagenes{
+    display: flex;
+    gap: 15px; /* Espaciado entre enlaces */
+    list-style-type: none;
+  }
+
+  .contenidocentrado{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .wellbeing{
+    background-color: #f4f4f4;
+
+  }
 
